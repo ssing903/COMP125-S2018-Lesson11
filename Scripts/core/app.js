@@ -1,4 +1,6 @@
 // core module - IIFE
+
+/* Finally completing */
 (function() {
   // App variables
   let XHR;
